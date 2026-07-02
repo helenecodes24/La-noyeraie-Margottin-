@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://helenecodes24.github.io/La-noyeraie-Margottin-/sitemap.xml
